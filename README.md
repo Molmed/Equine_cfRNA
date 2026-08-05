@@ -23,7 +23,7 @@ The preprint has posted on [bioRxiv](https://www.biorxiv.org/content/10.1101/202
 This work was mainly supported by a grant from [The Swedish-Norwegian Foundation for Equine Research](https://hastforskning.se/in-english/#:~:text=The%20Swedish%2DNorwegian%20Foundation%20for,Read%20more), and in part by [FORMAS](https://formas.se) and [SciLifeLab](https://www.scilifelab.se).
 
 # Data
-Raw sequencing data for this project is available at [BioProject ID: PRJNA1354409](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1354409). 
+Raw sequencing data for this project is available at [BioProject ID: PRJNA1354409](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1354409). 
 
 # Instructions
 The code here primarily performs cell deconvolution analysis, principal component analysis, differentially expressed gene analysis, pathway analysis of cfRNA.  
